@@ -4,7 +4,7 @@ const axios = require('axios');
 const uri = 'https://api.github.com';
 const header = {
     'Accept': 'application/vnd.github.v3+json',
-    'Authorization': 'token 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'
+    'Authorization': 'token *****'
 };
 
 describe('github APIs', function () {
